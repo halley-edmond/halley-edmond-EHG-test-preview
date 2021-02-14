@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/halley-edmond-EHG-test-preview/static/js/main.e92c799d.chunk.js",
+    "main.js.map": "/halley-edmond-EHG-test-preview/static/js/main.e92c799d.chunk.js.map",
+    "runtime-main.js": "/halley-edmond-EHG-test-preview/static/js/runtime-main.30a9c3e9.js",
+    "runtime-main.js.map": "/halley-edmond-EHG-test-preview/static/js/runtime-main.30a9c3e9.js.map",
+    "static/js/2.dfa47d97.chunk.js": "/halley-edmond-EHG-test-preview/static/js/2.dfa47d97.chunk.js",
+    "static/js/2.dfa47d97.chunk.js.map": "/halley-edmond-EHG-test-preview/static/js/2.dfa47d97.chunk.js.map",
+    "static/js/3.b321efda.chunk.js": "/halley-edmond-EHG-test-preview/static/js/3.b321efda.chunk.js",
+    "static/js/3.b321efda.chunk.js.map": "/halley-edmond-EHG-test-preview/static/js/3.b321efda.chunk.js.map",
+    "index.html": "/halley-edmond-EHG-test-preview/index.html",
+    "static/js/2.dfa47d97.chunk.js.LICENSE.txt": "/halley-edmond-EHG-test-preview/static/js/2.dfa47d97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30a9c3e9.js",
+    "static/js/2.dfa47d97.chunk.js",
+    "static/js/main.e92c799d.chunk.js"
+  ]
+}
